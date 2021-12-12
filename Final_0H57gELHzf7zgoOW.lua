@@ -1,28 +1,4 @@
-Move1 = ""
-Move2 = "Mach Kick"
-Move3 = "TS Molotov"
-Move4 = "Time Skip"
-Move5 = "Vital Strike"
-Move6 = ""
-Move7 = ""
 
-------------------------------------------Settings--------------------------------------------------------------
-getgenv().AutoSenzu = false --Use blue beans for ki infinite
-getgenv().Anchored = true --So that goku is still
-getgenv().FormType = "g" --A type transform g or h
-getgenv().TimeToTransform = 0
-getgenv().Punch = true --If want u punch
-getgenv().PunchType = "Right" --Choose Type Right or Left
-getgenv().DragonType = "Dragon Crush" --Choose Type Dragon Chrush or Dragon Throw
-getgenv().Rejoin = false --When it reaches enough level for goku to transform into another phase     
-getgenv().Moves = true --Use Moves          
-------------------------------------------BY Jmata#0126--------------------------------------------------------
-----------Info---------------
---      Lvl 101 Goku SSJ2
---      Lvl 181 Goku SSJ3
---      Lvl 251 Goku SSJG
---      Lvl 324 Goku SJJB
------------------------------
 _0H57gELHzf7zgoOW, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
